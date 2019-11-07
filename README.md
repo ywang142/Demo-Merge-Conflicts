@@ -1,3 +1,3 @@
 # Demo-Merge-Conflicts
 
-by Yuyang Wang
+A simple demo, by Yuyang Wang, for DMIT-2019
